@@ -21,4 +21,5 @@ Then, I did another iteration to go through the new menu to discover which ticke
 Finally I made sure it worked on my original data since I was using a test version so the script would run faster while developing. 
 
 Here are the final results of the code in my original data. 
-![stock_results_image](results.png)
+![stock_results_image]
+<img width="769" alt="results" src="https://user-images.githubusercontent.com/64171430/212593086-8f8cbffa-952c-4d05-be3f-b1311dcf413d.png">
